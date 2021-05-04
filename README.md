@@ -17,5 +17,5 @@
   - The refactored script ran faster than the original script.
   - The refactored script didn't use the nested for loop, which is easier and more straightforward to understand. 
   - The refactored script need to write more code lines than the original script and will increase the memory size usage.
-  - It will be hrader to deal with more number of iterations when using the rafactored script.
+  - It will be harder to deal with more number of iterations when using the rafactored script.
   

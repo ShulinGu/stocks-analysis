@@ -1,4 +1,4 @@
-# ** stocks-analysis **
+# **stocks-analysis**
 ## Overview of the Project:
   - The purpose of this analysis is to help Steve analysing the total daily volume and the returns of each stock. By using VBA, we can help him to build a easier way of analysing the stock data.
 ## Results:

@@ -6,13 +6,13 @@
   - ![VBA_Challenge_2017](https://user-images.githubusercontent.com/82785321/116954941-0ebeb700-ac46-11eb-93fd-525fe71dcf76.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/82785321/116954943-10887a80-ac46-11eb-8fa8-83241f05e637.png)
   - The refactored code also has a faster ran speed. The refactored code ran in 0.14s for the year 2017 and 0.16s for the year 2018, while the original code ran 0.68s and 0.75s for the year 2017 and 2018.
 * Summary:
-  - Advantage of refactoring the code:
-  -*Make the code more efficient. 
-  -*Reduce the complexity of the code. 
-  -Enhance the functionalities.
-  - Disadvantage of refactoring the code:
-  -*reating bugs.
-  -*ime consuming
+  ## Advantage of refactoring the code:
+  - Make the code more efficient. 
+  - Reduce the complexity of the code. 
+  - Enhance the functionalities.
+  ## Disadvantage of refactoring the code:
+  - reating bugs.
+  - ime consuming
   - The refactored code ran faster than the original one because it didn't use the nested for loop. The shorter execution time proves that refactoring the code enhance the functionalities. And the code is more efficient in this case that we are dealing with, since there aren't many number of iterations. However, it takes more lines when writing the script, more code need to be written, which can be the disadvantege of the refactored code.
   - As for the 
   

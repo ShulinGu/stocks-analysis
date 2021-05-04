@@ -11,7 +11,7 @@
   - Reduce the complexity of the code. 
   - Enhance the functionalities.
   ### Cons of refactoring the code:
-  - reating bugs.
+  - Creating bugs.
   - Time consuming
   ### Pros and Cons of the original and refactored VBA script.
   - The refactored script ran faster than the original script.

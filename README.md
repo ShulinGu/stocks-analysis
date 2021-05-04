@@ -7,11 +7,11 @@
   ## ![VBA_Challenge_2017](https://user-images.githubusercontent.com/82785321/116954941-0ebeb700-ac46-11eb-93fd-525fe71dcf76.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/82785321/116954943-10887a80-ac46-11eb-8fa8-83241f05e637.png)
 ## Summary:
   ### Pros of refactoring the code:
-  - Make the code more efficient. 
-  - Reduce the complexity of the code. 
-  - Enhance the functionalities.
+  - Make the code more efficient
+  - Reduce the complexity of the code
+  - Enhance the functionalities
   ### Cons of refactoring the code:
-  - Creating bugs.
+  - Creating bugs
   - Time consuming
   ### Pros and Cons of the original and refactored VBA script.
   - The refactored script ran faster than the original script.
